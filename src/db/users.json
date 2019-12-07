@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+[
+    {
+        "_id" : "5de96320b456c90377673005",
+        "name" : "abc",
+        "email" : "abc@gmail.com",
+        "password" : "$2a$10$.Fq78zBKRlZoXPl/eMW7CObGc7udyx/nqmTxFZho8N6eMys95HyE2",
+        "date" : "2019-12-06T01:35:52.960+05:30"
+    }
+]
+=======
 [{"name":"Prasad Mhatre","email":"akshaynagargoje0716@gmail.com","password":"$2a$10$MuuDbEiHEa6nsGEeZuRwsuV775.n2h./T6JS/wJSsj.HOt96DActS","_id":"0.05695996073261411-716"},{"name":"Prasad Mhatre","email":"esthersolomon094@gmail.com","password":"$2a$10$crxSCULyWz2BI5SLzR2B8uPmPdTcBbqDRlNdGzm8bLX97KwOV56cq","_id":"0.11884507899339591-670"}]
+>>>>>>> 5e522d7f8a2daa0912545d8d48045c686daab578
